@@ -1,3 +1,3 @@
 # psychenality
-Angel Hacks 2021 Submission by Iman Umair-Qaiser
+## Angel Hacks 2021 Submission by Iman Umair-Qaiser
 Psychenality creates a comprehensive personality profile for each of its users based on their results for popular personality tests. Currently, Psychenality provides the user's zodiac sign, their Chinese zodiac sign, their birth month gemstone, their birth month flower, their Celtic tree month, and others. All the user has to do is input their birthday and answer a few questions for a semi-complete profile of the results they would get on various personality tests. Perfect for people who like being affirmed that they're intelligent or intuitive, bbut now it's all in one place!
